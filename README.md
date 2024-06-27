@@ -1,7 +1,7 @@
 # Şikayetvar Complaints Scraping and Analysis
 
 ## Project Description
-This project aims to develop an RPA solution using UiPath to automatically scrape all complaints from companies' Şikayetvar pages and process this data using LLM and data analysis techniques to extract meaningful insights. The goal is to automate the collection, analysis, and visualization of customer complaints to identify areas for improvement and enhance products and services.
+This project aims to develop a RPA solution using UiPath to automatically scrape all complaints from companies' Şikayetvar pages and process this data using LLM and data analysis techniques to extract meaningful insights. The goal is to automate the collection, analysis, and visualization of customer complaints to identify areas for improvement and enhance products and services.
 
 ## Goals
 - **Automated Data Collection**: Scrape complaint data, including dates, texts, view counts, and product information.
